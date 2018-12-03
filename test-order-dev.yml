@@ -11,4 +11,5 @@ spring:
     password: guest
 
 env:
-  123456
+  print:
+    123456
