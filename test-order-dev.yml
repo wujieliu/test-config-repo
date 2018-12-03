@@ -10,6 +10,5 @@ spring:
     username: guest
     password: guest
 
-env:
-  print:
-    12345611111111
+envs:
+   12345611111111
